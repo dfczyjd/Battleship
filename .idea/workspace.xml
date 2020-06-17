@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b614d00-fac1-41f4-80aa-52d41024a5df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RqFekzri1vglXr9EXU7rlBK7xu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="battleship" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Run client">
+    <configuration name="Run client" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="gui.MainClass" />
+      <module name="Battleship" />
+      <option name="PROGRAM_PARAMETERS" value="Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="gui.MainClass" />
+      <module name="Battleship" />
+      <option name="PROGRAM_PARAMETERS" value="Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OceanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Battleship" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="core" />
+      <option name="MAIN_CLASS_NAME" value="core.OceanTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShipTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Battleship" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="core" />
+      <option name="MAIN_CLASS_NAME" value="core.ShipTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShipTest.isDamaged" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Battleship" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="core" />
+      <option name="MAIN_CLASS_NAME" value="core.ShipTest" />
+      <option name="METHOD_NAME" value="isDamaged" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShipTest.isSunk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Battleship" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="core" />
+      <option name="MAIN_CLASS_NAME" value="core.ShipTest" />
+      <option name="METHOD_NAME" value="isSunk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Run client" />
+      <item itemvalue="Application.Run server" />
+      <item itemvalue="JUnit.ShipTest" />
+      <item itemvalue="JUnit.ShipTest.isSunk" />
+      <item itemvalue="JUnit.ShipTest.isDamaged" />
+      <item itemvalue="JUnit.OceanTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OceanTest" />
+        <item itemvalue="JUnit.ShipTest" />
+        <item itemvalue="JUnit.ShipTest.isDamaged" />
+        <item itemvalue="JUnit.ShipTest.isSunk" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b614d00-fac1-41f4-80aa-52d41024a5df" name="Default Changelist" comment="" />
+      <created>1570386816934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570386816934</updated>
+      <workItem from="1570386820670" duration="91000" />
+      <workItem from="1570462472620" duration="5875000" />
+      <workItem from="1570476661975" duration="5084000" />
+      <workItem from="1570550666531" duration="1157000" />
+      <workItem from="1570801497352" duration="1839000" />
+      <workItem from="1570815730647" duration="6186000" />
+      <workItem from="1570981789561" duration="5191000" />
+      <workItem from="1571074132150" duration="3844000" />
+      <workItem from="1586285917240" duration="1318000" />
+      <workItem from="1586355532577" duration="476000" />
+      <workItem from="1586363954376" duration="14140000" />
+      <workItem from="1586449957205" duration="16028000" />
+      <workItem from="1586524864733" duration="9344000" />
+      <workItem from="1586537310043" duration="295000" />
+      <workItem from="1586537754121" duration="93000" />
+      <workItem from="1586540996333" duration="379000" />
+      <workItem from="1589992511184" duration="568000" />
+      <workItem from="1589993141162" duration="2899000" />
+      <workItem from="1590088976818" duration="5374000" />
+      <workItem from="1590166942206" duration="10590000" />
+      <workItem from="1590188420770" duration="716000" />
+      <workItem from="1590229834148" duration="733000" />
+      <workItem from="1590239289590" duration="1158000" />
+      <workItem from="1590246847645" duration="19343000" />
+      <workItem from="1590324442772" duration="22898000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="75" key="#Project_Structure" timestamp="1586371982300">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="75" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1586371982300" />
+    <state x="255" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590333006932">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="255" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590333006932" />
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1590345707085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590345707085" />
+    <state x="498" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586481707447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1586481707447" />
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590265767362">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1590265767362" />
+    <state x="473" y="158" key="FileChooserDialogImpl" timestamp="1586481702735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="158" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586481702735" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1590350209622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590350209622" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1590350209622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590350209622" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1590350209622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590350209622" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1590350209622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590350209622" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1590350209623">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590350209623" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1590350209623">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590350209623" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1590350209623">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590350209623" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1590350209623">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590350209623" />
+    <state x="375" y="0" key="SettingsEditor" timestamp="1590347483855">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="375" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590347483855" />
+    <state x="498" y="314" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586526524449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="314" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1586526524449" />
+    <state x="533" y="133" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586529033436">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="533" y="133" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1586529033436" />
+    <state x="209" y="40" key="new project wizard" timestamp="1590236158139">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="40" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1590236158139" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590261084322">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590261084322" />
+  </component>
+</project>
